@@ -7,3 +7,5 @@
   ボタンのアニメーションをいい感じにした
 ### 操作方法
   ボタンを押しまくってPowerをどんどん強くしよう！
+https://github.com/jasin-cat/Portfolio/ClickerG/index.html
+  
