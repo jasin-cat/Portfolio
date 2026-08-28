@@ -1,11 +1,13 @@
 # Portfolio
 ポートフォリオWEB版をPagesで公開するためのリポジトリ
 
+## アーチェリー
+
 ### 制作時間
-  30分
+  1週間
 ### こだわり
-  ボタンのアニメーションをいい感じにした
+  狙う際にshaderで中心がわかるようにした。
 ### 操作方法
-  ボタンを押しまくってPowerをどんどん強くしよう！
+  マウスの左クリック長押しで狙いを定めて、離すと矢が打てる
 https://github.com/jasin-cat/Portfolio/ClickerG/index.html
   
